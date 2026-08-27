@@ -7,11 +7,6 @@
   <img src="https://www.gitskins.com/api/section/stack?username=ferchodmc&theme=neon" alt="Technology stack" />
 </p>
 
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=ferchodmc&theme=neon" alt="GitHub statistics" />
-</p>
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=ferchodmc&theme=neon" alt="Social links" />
 </p>
