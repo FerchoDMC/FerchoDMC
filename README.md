@@ -1,6 +1,3 @@
-# ferchodmc
-
-> Memorable developer positioning.
 
 ## Header
 
