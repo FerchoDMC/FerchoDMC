@@ -1,12 +1,21 @@
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=ferchodmc&theme=neon" alt="ferchodmc" />
+  <img
+    src="assets/ferchodmc_sfg_neofetch_identity.png"
+    alt="System identity"
+  />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=ferchodmc&theme=neon" alt="Technology stack" />
+  <img
+    src="assets/ferchodmc_sfg_htop_languages.png"
+    alt="Languages and system activity"
+  />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=ferchodmc&theme=neon" alt="Social links" />
+  <img
+    src="assets/ferchodmc_sfg_skills_binary_list.png"
+    alt="Technical skills and tools"
+  />
 </p>
